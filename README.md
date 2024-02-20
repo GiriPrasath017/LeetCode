@@ -1,1 +1,1 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/giriprasath017?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/giriprasath017?theme=unicorn&extension=activity)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/giriprasath017?ext=heatmap)](https://leetcard.jacoblin.cool/giriprasath017?ext=heatmap)
